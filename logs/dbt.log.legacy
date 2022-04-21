@@ -1,0 +1,44 @@
+2022-04-20 03:51:16.659528 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-20 04:23:28.421508 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-20 04:25:04.947193 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-20 04:34:33.018117 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-20 04:34:50.658315 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 01:57:06.919805 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 01:57:21.958695 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 01:57:21.964337 (MainThread): context manager reversed is deprecated and to be removed in 3.0.Use G.reverse(copy=False) if G.is_directed() else G instead.
+2022-04-21 01:57:54.250425 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 01:57:54.255736 (MainThread): context manager reversed is deprecated and to be removed in 3.0.Use G.reverse(copy=False) if G.is_directed() else G instead.
+2022-04-21 03:19:47.120638 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 03:19:47.128399 (MainThread): context manager reversed is deprecated and to be removed in 3.0.Use G.reverse(copy=False) if G.is_directed() else G instead.
+2022-04-21 03:20:48.411238 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 03:20:48.417887 (MainThread): context manager reversed is deprecated and to be removed in 3.0.Use G.reverse(copy=False) if G.is_directed() else G instead.
+2022-04-21 03:21:16.817687 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 03:21:16.824434 (MainThread): context manager reversed is deprecated and to be removed in 3.0.Use G.reverse(copy=False) if G.is_directed() else G instead.
+2022-04-21 04:29:26.104669 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 04:29:26.111216 (MainThread): context manager reversed is deprecated and to be removed in 3.0.Use G.reverse(copy=False) if G.is_directed() else G instead.
+2022-04-21 04:30:14.949374 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 04:30:14.955438 (MainThread): context manager reversed is deprecated and to be removed in 3.0.Use G.reverse(copy=False) if G.is_directed() else G instead.
+2022-04-21 04:31:30.224138 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 04:31:30.229792 (MainThread): context manager reversed is deprecated and to be removed in 3.0.Use G.reverse(copy=False) if G.is_directed() else G instead.
+2022-04-21 04:46:25.024689 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 04:48:58.866778 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-21 04:49:00.926899 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.927883 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.929186 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.930320 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.931627 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.933401 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.934752 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.935934 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.936932 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.938407 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.939854 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.941214 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.942642 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.944149 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.945590 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.946723 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.948010 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.949501 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.950766 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
+2022-04-21 04:49:00.952178 (Thread-2): 'soft_unicode' has been renamed to 'soft_str'. The old name will be removed in MarkupSafe 2.1.
